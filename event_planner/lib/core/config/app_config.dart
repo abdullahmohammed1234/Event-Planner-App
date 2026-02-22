@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 
 class AppConfig {
-  static const String appName = 'Event Planner';
+  static const String appName = 'EventForge';
   
   // API Base URL - automatically selects correct address based on platform
   // For Android Emulator: http://10.0.2.2:3000/api
