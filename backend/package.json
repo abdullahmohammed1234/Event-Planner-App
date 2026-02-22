@@ -14,7 +14,7 @@
     "express",
     "mongodb"
   ],
-  "author": "StormForge Team",
+  "author": "EventForge Team",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.1",
