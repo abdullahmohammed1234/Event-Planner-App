@@ -63,4 +63,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/SplashScreen.gif
+    - assets/
+    - .env
